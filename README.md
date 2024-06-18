@@ -1,9 +1,8 @@
 For this project:
-
-    '#' means wall
-    'P' means player
-    'X' means box
-    'O' means base
+  - '#' means wall
+  - 'P' means player
+  - 'X' means box
+  - 'O' means base
 
 In this game, you need to put all boxes on bases like the japanese video game "Sokoban" !
 
