@@ -8,6 +8,7 @@ For this project:
 In this game, you need to put all boxes on bases like the japanese video game "Sokoban" !
 
 Evaluation: 
+
     Usage and input checks 4/4
     Basic moves 4/4
     Basic collisions and box on targets 4/4
